@@ -10,6 +10,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.0.18"
+    "@astrojs/vue": "^2.1.0",
+    "astro": "^2.1.2",
+    "trading-vue-js": "^1.0.2",
+    "vue": "^3.2.30"
   }
 }
